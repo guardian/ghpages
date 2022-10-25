@@ -1,3 +1,7 @@
+> **Note**
+> This repo is deprecated.
+> Please use alternatives that do not require Personal Access Tokens, for example https://www.npmjs.com/package/gh-pages.
+
 # GitHub Action to Deploy Static Assets to GitHub Pages
 
 <!-- badges: start -->
